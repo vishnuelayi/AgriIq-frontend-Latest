@@ -1,0 +1,5 @@
+{
+  "name": "AgriIQ Exam Portal",
+  "description": "A modern mock test platform for agriculture exams with user and admin portals, Firebase integration, and OTP authentication.",
+  "requestFramePermissions": []
+}
